@@ -3,10 +3,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,figma&theme=dark)](https://skillicons.dev)
 
 
-## 📊 GitHub Stats
-![lsy20140's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsy20140&show_icons=true&theme=dracula)
-<br>
-
 <!--
 **lsy20140/lsy20140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
